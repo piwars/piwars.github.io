@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Night Fury&#39;s blog </title>
+		<link>https://piwars.github.io/</link>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<author></author>
+		<rights>Copyright (c) 2018</rights>
+		<updated>2018-10-10 21:00:00 &#43;0100 BST</updated>
+		
+		<item>
+			<title>We&#39;re back for Piwars 2019</title>
+			<link>https://piwars.github.io/posts/my-first-post/</link>
+			<pubDate>Wed, 10 Oct 2018 21:00:00 BST</pubDate>
+			<author></author>
+			<guid>https://piwars.github.io/posts/my-first-post/</guid>
+			<description>&lt;p&gt;We are pleased to have been selected again for the upcoming &lt;a href=&#34;https://www.piwars.org&#34;&gt;Piwars&lt;/a&gt; competition in Mars 2019.
+This will be the 3rd time that we participate to Piwars, and hopefully this year we will do better.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;We will keep our little Night Fury robot, from last year&amp;rsquo;s design, as our starting point for this year competition. After all, he served us well last year, as we managed to win the duck shooting challenge&amp;hellip; to our greatest surprise :)&lt;/p&gt;
+
+&lt;p&gt;Our design is following the &amp;ldquo;simple is best&amp;rdquo; philosophy. We re-used the mechanical parts of a RC toy car (i.e. the wheels, gears and motors) and 3D printed a chasis slightly bigger that the original toy to fit comfortably the PI and PCB inside.
+The PCB is minimal as the Raspebrry PI is doing almost all the work. The PCB only powers the PI via its GPIO and drives the 2 motors using a motor driver directly connected to the PI&amp;rsquo;s GPIO.
+Add a battery and a camera and we have pretty much all the elements of our robots.&lt;/p&gt;
+
+&lt;p&gt;Our ambition (or challenge depending how you look at it) is to bring all the complexity into the software of the robot. I like the idea of proving that the PI is capable of doing complex things with minimal surrounding components. Hopefully this year we will be able to do just that!&lt;/p&gt;</description>
+		</item>
+		
+	</channel>
+</rss>

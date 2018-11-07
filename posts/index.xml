@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Night Fury&#39;s blog</title>
+    <link>https://piwars.github.io/posts/</link>
+    <description>Recent content in Posts on Night Fury&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Oct 2018 21:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://piwars.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We&#39;re back for Piwars 2019</title>
+      <link>https://piwars.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 10 Oct 2018 21:00:00 +0100</pubDate>
+      
+      <guid>https://piwars.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;We are pleased to have been selected again for the upcoming &lt;a href=&#34;https://www.piwars.org&#34;&gt;Piwars&lt;/a&gt; competition in Mars 2019.
+This will be the 3rd time that we participate to Piwars, and hopefully this year we will do better.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
